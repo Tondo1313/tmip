@@ -7,4 +7,4 @@ sudo snap install spiderfoot
 sudo ln -s /snap/bin/spiderfoot /usr/local/bin/spiderfoot
 sudo apt install wireshark -y 
 sudo apt install john hashcat aircrack-ng sqlmap hydra maltego -y
-sudo snap install metasploit-framework -y
+sudo snap install metasploit-framework
